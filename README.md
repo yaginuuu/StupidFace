@@ -1,4 +1,5 @@
-StupidFace
+What?
 ==========
 
-授業で作ったandroidアプリ
+授業で作ったandroidアプリ。
+友達の間抜けな顔の写真がとれます。
